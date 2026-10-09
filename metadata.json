@@ -1,0 +1,6 @@
+{
+  "name": "HITLIST España - La Lista Oficial de los Éxitos",
+  "description": "HITLIST España: Ranking musical interactivo independiente y profesional. Votaciones en directo, reproductor de audio, candidatos y DJ locutor inteligente con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
